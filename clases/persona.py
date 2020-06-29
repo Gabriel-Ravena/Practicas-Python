@@ -32,3 +32,6 @@ print(persona2.apellido)
 print(persona2.edad)
 print(persona2.domicilio)
 print(persona2.puesto)
+
+persona3 = Persona("Silvina", "Soto", 28, "guanajuato 543", "Tester")
+print(persona3.nombre, persona3.apellido, persona3.edad, persona3.domicilio, persona3.puesto)
