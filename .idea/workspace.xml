@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35267bbf-dca5-46bc-8b9a-0c19252bde99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Encapsulamiento/encapsulamiento.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulamiento/metodos-privados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clases/extras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herencia/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/modulo_aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/modulo_persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/modulo_persona_prueba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modulos/test-aritmetica.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,49 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
-  <component name="RunManager" selected="Python.herencia">
-    <configuration name="encapsulamiento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practicas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Encapsulamiento" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Encapsulamiento/encapsulamiento.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="extras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-practicas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clases/extras.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.modulo_persona">
     <configuration name="herencia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="volumen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="modulo_persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +87,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clases/volumen.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\python-practicas\modulos\modulo_persona.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="modulo_persona_prueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practicas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Usuario\Documents\python-practicas\modulos\modulo_persona_prueba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test-aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-practicas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulos/test-aritmetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.modulo_persona" />
+        <item itemvalue="Python.modulo_persona_prueba" />
+        <item itemvalue="Python.test-aritmetica" />
         <item itemvalue="Python.herencia" />
         <item itemvalue="Python.metodos-privados" />
-        <item itemvalue="Python.encapsulamiento" />
-        <item itemvalue="Python.extras" />
-        <item itemvalue="Python.volumen" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +170,22 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1592571403347" />
-    <state width="1339" height="180" key="GridCell.Tab.0.bottom" timestamp="1593533285246">
+    <state width="1339" height="180" key="GridCell.Tab.0.bottom" timestamp="1593543085673">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="180" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593533285246" />
-    <state width="1339" height="180" key="GridCell.Tab.0.center" timestamp="1593533285246">
+    <state width="1339" height="180" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593543085673" />
+    <state width="1339" height="180" key="GridCell.Tab.0.center" timestamp="1593543085673">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="180" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1593533285246" />
-    <state width="1339" height="180" key="GridCell.Tab.0.left" timestamp="1593533285246">
+    <state width="1339" height="180" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1593543085673" />
+    <state width="1339" height="180" key="GridCell.Tab.0.left" timestamp="1593543085673">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="180" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1593533285246" />
-    <state width="1339" height="180" key="GridCell.Tab.0.right" timestamp="1593533285246">
+    <state width="1339" height="180" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1593543085673" />
+    <state width="1339" height="180" key="GridCell.Tab.0.right" timestamp="1593543085673">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="180" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1593533285246" />
+    <state width="1339" height="180" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1593543085673" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1593462560283">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
