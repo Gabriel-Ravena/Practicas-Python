@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35267bbf-dca5-46bc-8b9a-0c19252bde99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clases_abstractas/color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clases_abstractas/cuadrado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clases_abstractas/figuras_geometricas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clases_abstractas/prueba_figura_geometrica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constantes/constante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constantes/prueba_constante.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disenio_clases/orden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disenio_clases/producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disenio_clases/prueba_producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disenio_clases/pruebas_de_orden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metodos_clase/metodos_clase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables_de_clase/variables_clase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Usuario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Usuario.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manejo_excepciones/manejo_excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manejo_excepciones/numeros_identicos_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polimorfismo/empleado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polimorfismo/gerente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polimorfismo/prueba_polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sobrecarga_operadores/persona_sobrecarga.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sobrecarga_operadores/sobrecarga_operadores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/figuras/figuras_geometricas.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +35,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-excel" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
-  <component name="RunManager" selected="Python.pruebas_de_orden">
-    <configuration name="constante" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.manejo_excepciones">
+    <configuration name="gerente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +47,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/constantes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polimorfismo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constantes/constante.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polimorfismo/gerente.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba_constante" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="manejo_excepciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/constantes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/manejo_excepciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constantes/prueba_constante.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manejo_excepciones/manejo_excepciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba_orden" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="persona_sobrecarga" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/disenio_clases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sobrecarga_operadores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disenio_clases/prueba_orden.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sobrecarga_operadores/persona_sobrecarga.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prueba_producto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prueba_polimorfismo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/disenio_clases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/polimorfismo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disenio_clases/prueba_producto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polimorfismo/prueba_polimorfismo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pruebas_de_orden" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sobrecarga_operadores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practicas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/disenio_clases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sobrecarga_operadores" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disenio_clases/pruebas_de_orden.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sobrecarga_operadores/sobrecarga_operadores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pruebas_de_orden" />
-        <item itemvalue="Python.prueba_orden" />
-        <item itemvalue="Python.prueba_producto" />
-        <item itemvalue="Python.prueba_constante" />
-        <item itemvalue="Python.constante" />
+        <item itemvalue="Python.manejo_excepciones" />
+        <item itemvalue="Python.prueba_polimorfismo" />
+        <item itemvalue="Python.gerente" />
+        <item itemvalue="Python.persona_sobrecarga" />
+        <item itemvalue="Python.sobrecarga_operadores" />
       </list>
     </recent_temporary>
   </component>
@@ -183,53 +176,64 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1593780848541" />
-    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1592571403347">
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1593894318960">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1592571403347" />
-    <state width="1339" height="188" key="GridCell.Tab.0.bottom" timestamp="1593795760990">
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1593894318960" />
+    <state width="1339" height="223" key="GridCell.Tab.0.bottom" timestamp="1594063879131">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="188" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593795760990" />
-    <state width="1339" height="188" key="GridCell.Tab.0.center" timestamp="1593795760990">
+    <state width="1339" height="223" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1594063879131" />
+    <state width="1339" height="223" key="GridCell.Tab.0.center" timestamp="1594063879131">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="188" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1593795760990" />
-    <state width="1339" height="188" key="GridCell.Tab.0.left" timestamp="1593795760990">
+    <state width="1339" height="223" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1594063879131" />
+    <state width="1339" height="223" key="GridCell.Tab.0.left" timestamp="1594063879131">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="188" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1593795760990" />
-    <state width="1339" height="188" key="GridCell.Tab.0.right" timestamp="1593795760990">
+    <state width="1339" height="223" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1594063879131" />
+    <state width="1339" height="223" key="GridCell.Tab.0.right" timestamp="1594063879131">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="188" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1593795760990" />
-    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1593620718791">
+    <state width="1339" height="223" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1594063879131" />
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom" timestamp="1594063879132">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1593620718791" />
-    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1593620718791">
+    <state width="1339" height="223" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1594063879132" />
+    <state width="1339" height="223" key="GridCell.Tab.1.center" timestamp="1594063879132">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1593620718791" />
-    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1593620718791">
+    <state width="1339" height="223" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1594063879132" />
+    <state width="1339" height="223" key="GridCell.Tab.1.left" timestamp="1594063879131">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1593620718791" />
-    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1593620718791">
+    <state width="1339" height="223" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1594063879131" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right" timestamp="1594063879132">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1593620718791" />
+    <state width="1339" height="223" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1594063879132" />
     <state x="181" y="6" key="SettingsEditor" timestamp="1593462560283">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="6" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1593462560283" />
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593698339299">
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593894307699">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1593698339299" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1593894307699" />
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593452792741">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1593452792741" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
